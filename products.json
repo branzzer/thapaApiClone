@@ -1,0 +1,107 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 999,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 899,
+        "featured": false,
+        "rating": 4.8,
+        "company": "samsung"
+    },
+    {
+        "name": "Inspiron 15",
+        "price": 799,
+        "featured": true,
+        "rating": 4.7,
+        "company": "del"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 299,
+        "featured": false,
+        "rating": 4.6,
+        "company": "mi"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1999,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Watch",
+        "price": 349,
+        "featured": true,
+        "rating": 4.5,
+        "company": "samsung"
+    },
+    {
+        "name": "XPS 13",
+        "price": 1399,
+        "featured": true,
+        "rating": 4.7,
+        "company": "del"
+    },
+    {
+        "name": "Mi Band 6",
+        "price": 49,
+        "featured": true,
+        "rating": 4.3,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone SE",
+        "price": 399,
+        "featured": false,
+        "rating": 4.6,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Tab S7",
+        "price": 649,
+        "featured": true,
+        "rating": 4.8,
+        "company": "samsung"
+    },
+    {
+        "name": "Alienware Aurora",
+        "price": 2499,
+        "featured": true,
+        "rating": 4.9,
+        "company": "del"
+    },
+    {
+        "name": "Mi True Wireless Earbuds",
+        "price": 99,
+        "featured": false,
+        "rating": 4.4,
+        "company": "mi"
+    },
+    {
+        "name": "iPad Air",
+        "price": 599,
+        "featured": true,
+        "rating": 4.7,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Buds Pro",
+        "price": 199,
+        "featured": true,
+        "rating": 4.6,
+        "company": "samsung"
+    },
+    {
+        "name": "Dell G5 Gaming Laptop",
+        "price": 1499,
+        "featured": false,
+        "rating": 4.8,
+        "company": "del"
+    }
+]
